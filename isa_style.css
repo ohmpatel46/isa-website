@@ -1,0 +1,68 @@
+#div1
+{
+	background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ),url('isa_bg.jpg');
+	background-repeat: no-repeat;
+	background-blend-mode: darken;
+	background-size: 100% 100%;
+	height:768px;
+	width:1366px;
+}
+#img1
+{
+	width:115px;
+	height:40px;
+	padding-top: 15px;
+	padding-left: 100px;
+	padding-right: 350px;
+	display: inline-block;
+}
+.anc
+{
+	letter-spacing: 1px;
+	color:DarkGrey;
+	padding-right: 20px;
+}
+.anc:hover
+{
+	color: Chartreuse;
+}
+#img2
+{
+	padding-top: 100px;
+	display:block;
+	height:200px;
+	width:260px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#text1
+{
+	font-size: 40px;
+	font-family: Helvetica;
+	color:white;
+	display:inline;
+}
+#blue1
+{
+	color:CornflowerBlue;
+	display:inline;
+	font-size: 40px;
+	font-family: Helvetica;
+}
+#text2
+{
+	font-size: 20px;
+	text-align: center;
+	color:gray;
+}
+#text3,#text4
+{
+	color:LightGray;
+	display: inline;
+
+}
+#blue2
+{
+	color:CornflowerBlue;
+	display: inline;
+}
